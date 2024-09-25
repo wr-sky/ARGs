@@ -1,0 +1,262 @@
+SAMN02640938	Salmonella enterica subsp	tetracycline
+SAMN02782579	Salmonella enterica subsp	beta_lactam	aminoglycoside	sulfonamide	tetracycline
+SAMN03276122	Salmonella enterica subsp	beta_lactam	others	tetracycline
+SAMN03988231	Salmonella enterica subsp	beta_lactam
+SAMN03988280	Salmonella enterica subsp	aminoglycoside	others	sulfonamide
+SAMN03988471	Salmonella enterica subsp	beta_lactam	quinolone	aminoglycoside	tetracycline
+SAMN05201855	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	tetracycline
+SAMN08113900	Salmonella enterica subsp	beta_lactam	sulfonamide	tetracycline
+SAMN08113903	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN08113944	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	sulfonamide	tetracycline
+SAMN08113949	Salmonella enterica subsp	beta_lactam	sulfonamide	tetracycline
+SAMN08113953	Salmonella enterica subsp	beta_lactam	chloramphenicol	aminoglycoside	others	sulfonamide	tetracycline
+SAMN08113963	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	sulfonamide	tetracycline
+SAMN08113968	Salmonella enterica subsp	beta_lactam	sulfonamide	tetracycline
+SAMN08113976	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN08113977	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	sulfonamide	tetracycline
+SAMN08113983	Salmonella enterica subsp	beta_lactam	others	tetracycline
+SAMN08114009	Salmonella enterica subsp	beta_lactam	chloramphenicol	others	sulfonamide	tetracycline
+SAMN08114020	Salmonella enterica subsp	others	aminoglycoside	sulfonamide	tetracycline
+SAMN08114062	Salmonella enterica subsp	others	beta_lactam	sulfonamide	tetracycline
+SAMN08114087	Salmonella enterica subsp	others	beta_lactam	sulfonamide	tetracycline
+SAMN08114096	Salmonella enterica subsp	others	beta_lactam	chloramphenicol	sulfonamide	tetracycline
+SAMN08114190	Salmonella enterica subsp	aminoglycoside	others	sulfonamide
+SAMN09770862	Salmonella enterica subsp	quinolone	others	sulfonamide	tetracycline
+SAMN09770876	Salmonella enterica subsp	beta_lactam	others	sulfonamide	tetracycline
+SAMN09770914	Salmonella enterica subsp	tetracycline
+SAMN09770928	Salmonella enterica subsp	aminoglycoside	others	sulfonamide
+SAMN09770933	Salmonella enterica subsp	aminoglycoside	others	sulfonamide	tetracycline
+SAMN09770935	Salmonella enterica subsp	quinolone	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN09770951	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline
+SAMN09770996	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline
+SAMN09771004	Salmonella enterica subsp	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN09771020	Salmonella enterica subsp	quinolone	others	sulfonamide	tetracycline
+SAMN09771024	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN09771054	Salmonella enterica subsp	quinolone	aminoglycoside	others	sulfonamide	tetracycline
+SAMN09771069	Salmonella enterica subsp	quinolone	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN10132765	Salmonella enterica subsp	beta_lactam	sulfonamide
+SAMN10132778	Salmonella enterica subsp	sulfonamide	tetracycline
+SAMN10132793	Salmonella enterica subsp	aminoglycoside	others	sulfonamide	tetracycline
+SAMN10132830	Salmonella enterica subsp	beta_lactam
+SAMN10132842	Salmonella enterica subsp	beta_lactam	quinolone	others	sulfonamide	tetracycline
+SAMN10132843	Salmonella enterica subsp	beta_lactam	others	sulfonamide	tetracycline
+SAMN10132874	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside
+SAMN10132878	Salmonella enterica subsp	beta_lactam	others	sulfonamide	tetracycline
+SAMN10133000	Salmonella enterica subsp	beta_lactam	chloramphenicol	others	sulfonamide	tetracycline
+SAMN10133013	Salmonella enterica subsp	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN10133019	Salmonella enterica subsp	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline
+SAMN10133037	Salmonella enterica subsp	quinolone	aminoglycoside	others	sulfonamide	tetracycline
+SAMN10133040	Salmonella enterica subsp	beta_lactam	aminoglycoside	others
+SAMN10133052	Salmonella enterica subsp	beta_lactam	others	sulfonamide	tetracycline
+SAMN10133054	Salmonella enterica subsp	beta_lactam	trimethoprim	aminoglycoside	others	sulfonamide	tetracycline
+SAMN10133065	Salmonella enterica subsp	aminoglycoside	others	sulfonamide	tetracycline
+SAMN10133076	Salmonella enterica subsp	quinolone	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN10133080	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline
+SAMN10242831	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	sulfonamide
+SAMN10242836	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside
+SAMN11967922	Salmonella enterica subsp	aminoglycoside	others	sulfonamide	tetracycline
+SAMN11967932	Salmonella enterica subsp	beta_lactam	quinolone	aminoglycoside	others	sulfonamide
+SAMN11967950	Salmonella enterica subsp	beta_lactam	others
+SAMN11967990	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	sulfonamide
+SAMN11968006	Salmonella enterica subsp	beta_lactam
+SAMN11968039	Salmonella enterica subsp	aminoglycoside	others	sulfonamide	tetracycline
+SAMN11968052	Salmonella enterica subsp	beta_lactam	sulfonamide	tetracycline
+SAMN11968060	Salmonella enterica subsp	aminoglycoside	others	sulfonamide	tetracycline
+SAMN11968095	Salmonella enterica subsp	beta_lactam	chloramphenicol	others	sulfonamide	tetracycline
+SAMN12096813	Salmonella enterica	beta_lactam	sulfonamide	tetracycline
+SAMN12360055	Salmonella enterica subsp	aminoglycoside	others	sulfonamide
+SAMN12360064	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	tetracycline
+SAMN12360095	Salmonella enterica subsp	beta_lactam	chloramphenicol	aminoglycoside	others	sulfonamide	tetracycline
+SAMN12360167	Salmonella enterica subsp	beta_lactam	others	tetracycline
+SAMN12360188	Salmonella enterica subsp	beta_lactam	others	tetracycline
+SAMN12360196	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	sulfonamide	tetracycline
+SAMN12360211	Salmonella enterica subsp	beta_lactam	sulfonamide	tetracycline
+SAMN12360289	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	tetracycline
+SAMN12525558	Salmonella enterica subsp	beta_lactam	quinolone	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN12586930	Salmonella enterica subsp	beta_lactam	trimethoprim	aminoglycoside	others	sulfonamide	tetracycline
+SAMN12586937	Salmonella enterica subsp	beta_lactam	others	sulfonamide	tetracycline
+SAMN12586950	Salmonella enterica subsp	beta_lactam	aminoglycoside	quinolone	others	sulfonamide	tetracycline
+SAMN12586952	Salmonella enterica subsp	beta_lactam	quinolone	others	tetracycline
+SAMN12587078	Salmonella enterica subsp	beta_lactam	quinolone	tetracycline
+SAMN12587080	Salmonella enterica subsp	beta_lactam	quinolone	tetracycline
+SAMN12587112	Salmonella enterica subsp	beta_lactam	others	tetracycline
+SAMN12587116	Salmonella enterica subsp	beta_lactam	others	tetracycline
+SAMN12587126	Salmonella enterica subsp	aminoglycoside	others	sulfonamide	tetracycline
+SAMN12587135	Salmonella enterica subsp	beta_lactam	sulfonamide	tetracycline
+SAMN12587258	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN12842902	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	others	sulfonamide	tetracycline
+SAMN12843007	Salmonella enterica subsp	beta_lactam	quinolone	sulfonamide	tetracycline
+SAMN12843039	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN12843061	Salmonella enterica subsp	beta_lactam	chloramphenicol	quinolone	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN12843063	Salmonella enterica subsp	beta_lactam	chloramphenicol	aminoglycoside	quinolone	others	sulfonamide	tetracycline
+SAMN12897351	Salmonella enterica subsp	quinolone
+SAMN12930376	Salmonella enterica subsp	beta_lactam	others	sulfonamide	tetracycline
+SAMN12930391	Salmonella enterica subsp	aminoglycoside	others	sulfonamide	tetracycline
+SAMN12930399	Salmonella enterica subsp	beta_lactam	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN12930429	Salmonella enterica subsp	aminoglycoside	others	tetracycline
+SAMN13808816	Salmonella enterica subsp	beta_lactam	sulfonamide	tetracycline
+SAMN10221061	Escherichia coli	beta_lactam	chloramphenicol	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN10221115	Escherichia coli	beta_lactam	chloramphenicol	aminoglycoside	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN10221255	Escherichia coli,	beta_lactam	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN10221523	Escherichia coli	beta_lactam	chloramphenicol	quinolone	others	sulfonamide	tetracycline	trimethoprim	sulfonamide
+SAMN12359680	Escherichia coli	beta_lactam	aminoglycoside	sulfonamide	tetracycline
+SAMN04014953	Klebsiella pneumoniae	beta_lactam	others	quinolone	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014954	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN04014955	Escherichia coli	beta_lactam	others	quinolone	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014956	Citrobacter freundii	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014957	Citrobacter freundii	beta_lactam	others	quinolone	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014958	Klebsiella pneumoniae	others	beta_lactam	quinolone	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014959	Escherichia coli	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN04014960	Escherichia coli	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN04014961	Escherichia coli	aminoglycoside	beta_lactam	others	quinolone	tetracycline
+SAMN04014962	Serratia marcescens	beta_lactam	others	tetracycline
+SAMN04014963	Serratia marcescens	beta_lactam	others	tetracycline
+SAMN04014964	Serratia marcescens	beta_lactam	others	tetracycline
+SAMN04014965	Serratia marcescens	beta_lactam	others	tetracycline
+SAMN04014966	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN04014967	Klebsiella pneumoniae	beta_lactam	others	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014968	Salmonella enterica subs	aminoglycoside	beta_lactam	others	quinolone
+SAMN04014969	Escherichia coli	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014970	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN04014971	Serratia marcescens	beta_lactam	others	tetracycline
+SAMN04014972	Serratia marcescens	beta_lactam	others	tetracycline
+SAMN04014973	Enterobacter cloacae complex sp	beta_lactam	others
+SAMN04014974	Morganella morganii	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014976	Klebsiella pneumoniae	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014977	Enterobacter cloacae complex sp	beta_lactam	others	quinolone	tetracycline	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014978	Escherichia coli	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014979	Escherichia coli	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014980	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014981	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014982	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014983	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014984	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014986	Klebsiella pneumoniae	beta_lactam	others	quinolone	aminoglycoside
+SAMN04014987	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014988	Klebsiella oxytoca	beta_lactam	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014989	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014990	Escherichia coli	beta_lactam	quinolone
+SAMN04014991	Escherichia coli	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014992	Escherichia coli	beta_lactam	others	quinolone	tetracycline	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014993	Klebsiella pneumoniae	beta_lactam	others	quinolone	tetracycline	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014994	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014995	Enterobacter cloacae complex sp	beta_lactam	others	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014996	Proteus mirabilis	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014997	Proteus mirabilis	beta_lactam	quinolone	tetracycline	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014998	Citrobacter sp	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN04014999	Klebsiella pneumoniae	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04015000	Proteus mirabilis	aminoglycoside	beta_lactam	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04015001	Klebsiella pneumoniae	beta_lactam
+SAMN04015002	Klebsiella aerogenes	beta_lactam	others	aminoglycoside
+SAMN04015003	Escherichia coli	beta_lactam	others	quinolone	tetracycline
+SAMN04015004	Enterobacter cloacae complex sp	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04015005	Enterobacter cloacae complex sp	beta_lactam	others
+SAMN04014887	Klebsiella pneumoniae	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014888	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014890	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014891	Enterobacter cloacae complex sp	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN04014894	Enterobacter cloacae complex sp	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014896	Escherichia coli,	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014897	Acinetobacter baumannii,	beta_lactam	quinolone	polymyxin	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014899	Escherichia coli,	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014900	Proteus mirabilis,	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014901	Enterobacter cloacae complex sp,	beta_lactam	others
+SAMN04014902	Escherichia coli,	aminoglycoside	beta_lactam	others	tetracycline	trimethoprim	sulfonamide
+SAMN04014903	Klebsiella aerogenes,	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014904	Acinetobacter baumannii,	beta_lactam	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014906	Enterobacter cloacae complex sp,	beta_lactam	others
+SAMN04014907	Klebsiella pneumoniae,	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014908	Escherichia coli,	beta_lactam	others	quinolone
+SAMN04014909	Klebsiella pneumoniae,	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014910	Escherichia coli,	beta_lactam	others	tetracycline	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014913	Enterobacter cloacae complex sp,	beta_lactam	others	tetracycline
+SAMN04014914	Enterobacter cloacae,	beta_lactam
+SAMN04014916	Klebsiella pneumoniae,	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014917	Klebsiella pneumoniae,	beta_lactam	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014918	Escherichia coli,nan
+SAMN04014919	Acinetobacter baumannii,	aminoglycoside	beta_lactam	quinolone	tetracycline
+SAMN04014920	Klebsiella pneumoniae,	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014921	Klebsiella pneumoniae,	beta_lactam	others	aminoglycoside
+SAMN04014922	Escherichia coli,	beta_lactam	others	quinolone
+SAMN04014923	Providencia rettgeri,	beta_lactam	others	tetracycline	trimethoprim	sulfonamide
+SAMN04014924	Acinetobacter baumannii,	aminoglycoside	beta_lactam	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014926	Escherichia coli,	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014927	Escherichia coli,	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014928	Klebsiella pneumoniae,	beta_lactam	others	quinolone	tetracycline
+SAMN04014929	Acinetobacter baumannii,	aminoglycoside	beta_lactam	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014930	Escherichia coli,	beta_lactam	others	tetracycline
+SAMN04014932	Serratia marcescens,	beta_lactam
+SAMN04014934	Enterobacter cloacae complex sp,	beta_lactam	others	quinolone	aminoglycoside
+SAMN04014936	Pseudomonas aeruginosa,	others	quinolone	beta_lactam
+SAMN04014937	Klebsiella pneumoniae subsp,	beta_lactam	others	quinolone	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014938	Klebsiella pneumoniae,	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014939	Klebsiella pneumoniae,	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN04014940	Serratia marcescens,	beta_lactam	others	tetracycline
+SAMN04014942	Acinetobacter baumannii,	aminoglycoside	beta_lactam	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014943	Acinetobacter baumannii,	aminoglycoside	beta_lactam	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014945	Escherichia coli,	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014948	Klebsiella pneumoniae,	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN04014950	Klebsiella pneumoniae,	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014951	Pseudomonas aeruginosa,	aminoglycoside	beta_lactam	quinolone
+SAMN04014952	Pseudomonas aeruginosa,	aminoglycoside	beta_lactam	quinolone
+SAMN04014879	Enterobacter hormaechei	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN04014893	Acinetobacter baumannii	beta_lactam	quinolone	aminoglycoside	trimethoprim	sulfonamide
+SAMN04014898	Morganella morganii	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN04014911	Acinetobacter baumannii	beta_lactam	quinolone	aminoglycoside	trimethoprim	sulfonamide
+SAMN04901605	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim	quinolone
+SAMN04901606	Staphylococcus aureus	beta_lactam	trimethoprim	quinolone
+SAMN04901609	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	tetracycline	trimethoprim	aminoglycoside	quinolone	rifampin
+SAMN04901610	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim	quinolone
+SAMN04901612	Staphylococcus aureus	beta_lactam	rifampin
+SAMN04901613	Staphylococcus aureus	beta_lactam	quinolone
+SAMN04901615	Staphylococcus aureus	beta_lactam	trimethoprim	quinolone
+SAMN04901616	Staphylococcus aureus	beta_lactam	trimethoprim	rifampin
+SAMN04901618	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim	quinolone	others
+SAMN04901620	Pseudomonas aeruginosa	aminoglycoside	beta_lactam	quinolone
+SAMN07291496	Pseudomonas aeruginosa	aminoglycoside	others	beta_lactam	quinolone
+SAMN07291497	Pseudomonas aeruginosa	others	beta_lactam	quinolone	aminoglycoside
+SAMN07291499	Pseudomonas aeruginosa	others	beta_lactam	aminoglycoside
+SAMN07291500	Pseudomonas aeruginosa	aminoglycoside	others	beta_lactam	quinolone
+SAMN07291503	Pseudomonas aeruginosa	others	beta_lactam
+SAMN07291504	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN07291505	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN07291506	Klebsiella pneumoniae	aminoglycoside	beta_lactam	others	quinolone	trimethoprim	sulfonamide
+SAMN07291508	Enterobacter hormaechei subsp	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN07291512	Escherichia coli	beta_lactam	others	aminoglycoside	trimethoprim	sulfonamide
+SAMN07291515	Escherichia coli	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN07291517	Escherichia coli	beta_lactam	others	quinolone	tetracycline	aminoglycoside	trimethoprim	sulfonamide
+SAMN07291518	Klebsiella michiganensis	beta_lactam	others	trimethoprim	sulfonamide
+SAMN07291519	Klebsiella pneumoniae	beta_lactam	others	quinolone	aminoglycoside	trimethoprim	sulfonamide
+SAMN07291522	Proteus mirabilis	beta_lactam	others	quinolone	tetracycline	aminoglycoside	trimethoprim	sulfonamide
+SAMN07291523	Klebsiella oxytoca	beta_lactam	others	tetracycline
+SAMN07291525	Enterobacter hormaechei	beta_lactam	others
+SAMN07291527	Escherichia coli	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN07291528	Escherichia coli	aminoglycoside	beta_lactam	others	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN07291529	Escherichia coli	beta_lactam	others	quinolone	tetracycline	aminoglycoside	trimethoprim	sulfonamide
+SAMN07291530	Escherichia coli	beta_lactam	others	quinolone	tetracycline	aminoglycoside	trimethoprim	sulfonamide
+SAMN07291531	Klebsiella pneumoniae	beta_lactam	others	quinolone	aminoglycoside	trimethoprim	sulfonamide
+SAMN07291532	Pseudomonas aeruginosa	aminoglycoside	beta_lactam	quinolone
+SAMN07291534	Pseudomonas paraeruginosa	others	beta_lactam	aminoglycoside
+SAMN07291535	Pseudomonas aeruginosa	others	beta_lactam	aminoglycoside
+SAMN07291537	Pseudomonas aeruginosa	aminoglycoside	others	beta_lactam	quinolone
+SAMN07291538	Pseudomonas aeruginosa	aminoglycoside	others	beta_lactam	quinolone
+SAMN07291539	Pseudomonas aeruginosa	others	beta_lactam	quinolone
+SAMN07291544	Escherichia coli	beta_lactam	others	quinolone	aminoglycoside	tetracycline	trimethoprim	sulfonamide
+SAMN07291545	Escherichia coli	beta_lactam	quinolone	tetracycline	trimethoprim	sulfonamide
+SAMN07291548	Pseudomonas aeruginosa	others	beta_lactam	quinolone
+SAMN07291551	Pseudomonas aeruginosa	others	beta_lactam	aminoglycoside
+SAMN07291553	Pseudomonas aeruginosa	aminoglycoside	others	beta_lactam	quinolone
+SAMN07291554	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim	quinolone
+SAMN07291555	Staphylococcus aureus	beta_lactam	quinolone	glycopeptide
+SAMN07291557	Staphylococcus aureus	beta_lactam
+SAMN07291558	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim	quinolone	glycopeptide
+SAMN07291559	Staphylococcus aureus	beta_lactam	quinolone
+SAMN07291560	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim	quinolone	glycopeptide
+SAMN07291561	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim	quinolone	glycopeptide
+SAMN07291562	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim	quinolone
+SAMN07291563	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	tetracycline	trimethoprim
+SAMN07291564	Staphylococcus aureus	beta_lactam
+SAMN07291565	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim
+SAMN07291566	Staphylococcus aureus	beta_lactam	trimethoprim
+SAMN07291567	Staphylococcus aureus	beta_lactam	trimethoprim	sulfonamide	trimethoprim	aminoglycoside	quinolone	rifampin	glycopeptide
+SAMN07291568	Staphylococcus aureus	beta_lactam	trimethoprim
